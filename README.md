@@ -1,4 +1,4 @@
-# Desafío - Uso de letiables y operadores aritméticos
+# Desafío - Uso de variables y operadores aritméticos
 
 [Enlace Directo al Proyecto](https://variables-y-operadores-aritmeticos.vercel.app/)
 
