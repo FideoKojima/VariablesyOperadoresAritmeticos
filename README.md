@@ -1,4 +1,5 @@
-# Desafío - Operaciones Matemáticas y Conversión de Unidades
+# Desafío - Uso de variables y operadores aritméticos
+
 
 Este proyecto incluye una serie de scripts en JavaScript que realizan operaciones matemáticas básicas y conversiones de unidades. Los scripts están diseñados para ser ejecutados en un entorno que soporte JavaScript, como un navegador web.
 
